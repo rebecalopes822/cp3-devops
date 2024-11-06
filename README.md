@@ -27,11 +27,12 @@ TODO-APP/
 
 1. **Clone o repositório:**
    git clone <link-do-repositorio>
-   cd TODO-APP
+   cd cp3-devops
+   code .
 
-2. **Configuração do Docker Compose:** Certifique-se de que o arquivo docker-compose.yml está configurado corretamente, incluindo o endereço do banco de dados Oracle.
+3. **Configuração do Docker Compose:** Certifique-se de que o arquivo docker-compose.yml está configurado corretamente, incluindo o endereço do banco de dados Oracle.
 
-3. **Inicie a aplicação com Docker Compose:**
+4. **Inicie a aplicação com Docker Compose:**
    docker-compose up -d
 
 
