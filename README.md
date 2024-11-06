@@ -9,6 +9,7 @@ O **TODO-APP** é uma aplicação simples de gerenciamento de tarefas, desenvolv
 - Garantir a facilidade de implantação e escalabilidade com Docker e Docker Compose.
 
 ## Estrutura do Projeto
+'''
 TODO-APP/
 ├── api/
 │   ├── app.py                # Código principal da API
@@ -16,6 +17,7 @@ TODO-APP/
 ├── docker-compose.yml        # Configuração de serviços Docker
 ├── Dockerfile                # Configuração do container da aplicação
 └── README.md                 # Este arquivo README
+'''
 
 ## Pré-requisitos
 - [Docker](https://www.docker.com/)
